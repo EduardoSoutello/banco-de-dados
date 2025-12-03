@@ -1,0 +1,14 @@
+# SQL e Database
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.bak
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
